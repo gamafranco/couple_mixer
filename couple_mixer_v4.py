@@ -108,7 +108,7 @@ class TheGloriousBanquetCooker:
 
 ##  price settings
 min_price = 3
-max_price = 10
+max_price = 20
 
 ##  couples settings
 couples = []
